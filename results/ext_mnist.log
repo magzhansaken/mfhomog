@@ -1,0 +1,13 @@
+100 0 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.11, 'GP (HF only)': 4.82, 'Corrector GP (LF at query)': 1.05}
+100 1 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.12, 'GP (HF only)': 4.53, 'Corrector GP (LF at query)': 0.86}
+100 2 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.05, 'GP (HF only)': 4.74, 'Corrector GP (LF at query)': 0.86}
+100 3 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.05, 'GP (HF only)': 4.24, 'Corrector GP (LF at query)': 0.87}
+100 4 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.05, 'GP (HF only)': 5.0, 'Corrector GP (LF at query)': 0.87}
+100 5 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.05, 'GP (HF only)': 4.47, 'Corrector GP (LF at query)': 0.83}
+100 6 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.07, 'GP (HF only)': 4.96, 'Corrector GP (LF at query)': 0.85}
+100 7 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.05, 'GP (HF only)': 4.79, 'Corrector GP (LF at query)': 0.88}
+100 8 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.04, 'GP (HF only)': 4.8, 'Corrector GP (LF at query)': 0.96}
+100 9 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.04, 'GP (HF only)': 4.66, 'Corrector GP (LF at query)': 0.91}
+1000 0 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.1, 'Corrector GP (LF at query)': 0.51}
+1000 1 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.05, 'Corrector GP (LF at query)': 0.47}
+1000 2 {'LF raw (coarse solve at query)': 100.0, 'LF + log-linear map': 1.05, 'Corrector GP (LF at query)': 0.47}

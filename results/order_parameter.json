@@ -1,0 +1,41 @@
+{
+ "n": 400,
+ "eta_range": [
+  0.21231172487671995,
+  0.6898010304281841
+ ],
+ "psi6_global_median": 0.12316393405848339,
+ "psi6_global_p90": 0.4022358164520069,
+ "psi6_global_max": 0.6939418164267402,
+ "psi6_local_median": 0.4392575149453925,
+ "rms_disp_over_nn_median": 1.142520087009568,
+ "rms_disp_over_nn_min": 0.18670308530392085,
+ "init_lattice_psi6_global_median": 0.9573333333333333,
+ "init_lattice_psi6_local_median": 0.9573333333333331,
+ "hexagonal_reference_psi6_global": 0.9573333333333333,
+ "hexagonal_reference_psi6_local": 0.9573333333333331,
+ "uncorrelated_scale_1_over_sqrtN": 0.16666666666666666,
+ "uniform_random_36_points_psi6_global_median": 0.07354938145186177,
+ "by_eta_bin": {
+  "(0.0, 0.4]": {
+   "psi6_global": 0.074,
+   "psi6_local": 0.353,
+   "rms_disp_over_nn": 4.41
+  },
+  "(0.4, 0.5]": {
+   "psi6_global": 0.088,
+   "psi6_local": 0.38,
+   "rms_disp_over_nn": 2.181
+  },
+  "(0.5, 0.6]": {
+   "psi6_global": 0.115,
+   "psi6_local": 0.44,
+   "rms_disp_over_nn": 1.103
+  },
+  "(0.6, 0.7]": {
+   "psi6_global": 0.282,
+   "psi6_local": 0.548,
+   "rms_disp_over_nn": 0.398
+  }
+ }
+}

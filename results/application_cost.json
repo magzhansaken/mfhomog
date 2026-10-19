@@ -1,0 +1,23 @@
+{
+ "train_data_cpu_min": 6.482485397000006,
+ "hf_cpu_s": 7.845523549500008,
+ "hf_scan_2001_cpu_h": 4.360803506263754,
+ "bisection_steps_dvf_0p001": 9,
+ "bisection_hf_cpu_min": 1.1768285324250012,
+ "E2_range_on_curve": [
+  1.5071633715501795,
+  4.29030953760626
+ ],
+ "interval_width_pct_median": 2.082357249005445,
+ "vf_star": 0.5300750000000001,
+ "MT_at_vf_star": 2.760569955033028,
+ "MT_vs_hf_mean_pct": -8.399306459142142,
+ "MT_vf_for_target": 0.566975,
+ "param_E2_at_MT_vf": 3.3222962912866905,
+ "param_at_MT_vf_vs_target_pct": 10.743209709556357,
+ "hf_range_pct_of_mean": 1.5467836308064344,
+ "hf_all_in_interval": true,
+ "hybrid_dev_mean_pct": 0.2334123616827541,
+ "hybrid_dev_max_pct": 0.4396283596953543,
+ "hybrid_hf_corr": 0.9008616354479465
+}

@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "mfhomog: solver-in-the-loop, bound-normalised prediction of the elastic constants of unidirectional composites"
+type: software
+license: MIT
+authors:
+  - family-names: "Mukasheva"
+    given-names: "Togzhan"
+    orcid: "https://orcid.org/0009-0001-7257-8157"
+    email: "t.mukasheva@tau-edu.kz"
+  - family-names: "Zhuzbayev"
+    given-names: "Serik"
+    orcid: "https://orcid.org/0000-0002-0018-6816"
+    email: "zhuzbayev_ss@enu.kz"
+    affiliation: "Department of Information Systems, L.N. Gumilyov Eurasian National University, Astana, Kazakhstan"
+  - family-names: "Mukasheva"
+    given-names: "Asylzhan"
+    orcid: "https://orcid.org/0009-0009-3113-0290"
+    email: "mukashevaasylzhan@gmail.com"
+  - family-names: "Sarsenbay"
+    given-names: "Magzhan"
+    orcid: "https://orcid.org/0009-0003-5365-5297"
+    email: "magzhansaken@gmail.com"
+    affiliation: "Department of Information Systems, L.N. Gumilyov Eurasian National University, Astana, Kazakhstan"
+repository-code: "https://github.com/<owner>/mfhomog"
+version: "1.0.0"
+date-released: "2026-10-20"
+preferred-citation:
+  type: article
+  title: "基于求解器在环校正的单向复合材料弹性常数小样本预测方法 (Small-sample prediction method for elastic constants of unidirectional composites based on solver-in-the-loop correction)"
+  journal: "机械工程学报 (Journal of Mechanical Engineering)"
+  authors:
+    - family-names: "Mukasheva"
+      given-names: "Togzhan"
+    - family-names: "Zhuzbayev"
+      given-names: "Serik"
+    - family-names: "Mukasheva"
+      given-names: "Asylzhan"
+    - family-names: "Sarsenbay"
+      given-names: "Magzhan"
+  year: 2027

@@ -1,0 +1,113 @@
+{
+ "data_cpu_h_benchmark_by_set": {
+  "pool": 0.925,
+  "lfx": 0.152,
+  "val": 0.231,
+  "test": 0.694,
+  "scatter": 0.185
+ },
+ "data_cpu_h_benchmark_5_modelling_sets": 2.19,
+ "data_wall_h_recorded_all_sets": 10.99,
+ "data_size_MB": 3.46,
+ "pool_eta_max": 0.6898,
+ "pool_share_eta_gt_0p6_pct": 38.2,
+ "rms_disp_over_nn_median_by_eta_bin": {
+  "(0.0, 0.4]": 4.41,
+  "(0.4, 0.5]": 2.181,
+  "(0.5, 0.6]": 1.103,
+  "(0.6, 0.7]": 0.398
+ },
+ "psi6_global_median_by_eta_bin": {
+  "(0.0, 0.4]": 0.074,
+  "(0.4, 0.5]": 0.088,
+  "(0.5, 0.6]": 0.115,
+  "(0.6, 0.7]": 0.282
+ },
+ "shear_diag_rel_diff_median_pct_N128": 1.8,
+ "shear_diag_rel_diff_median_pct_N256": 1.63,
+ "shear_diag_rel_diff_median_pct_N512": 1.56,
+ "cg_its_median_antiplane_plane": {
+  "64": [
+   87.0,
+   90.0
+  ],
+  "128": [
+   59.0,
+   68.5
+  ],
+  "256": [
+   43.5,
+   50.0
+  ],
+  "512": [
+   36.0,
+   40.0
+  ]
+ },
+ "cg_max_its_all_sets": 720,
+ "cg_max_residual_all_sets": 9.99998029387549e-06,
+ "spearman_plane_its_N512_vs_contrast": 0.938,
+ "vf_pixel_dev_N128_median_max_pct": [
+  0.101,
+  0.787
+ ],
+ "ref_n": 12,
+ "ref_vf_range": [
+  0.21,
+  0.638
+ ],
+ "ref_contrast_range": [
+  5.68,
+  90.83
+ ],
+ "fe_n": 20,
+ "fe_vs_fft_median_abs_rel_diff_pct_N64": [
+  2.442,
+  5.689,
+  1.999
+ ],
+ "fft_below_fe_all_N64": true,
+ "fe_vs_fft_median_abs_rel_diff_pct_N128": [
+  1.075,
+  2.778,
+  0.926
+ ],
+ "fft_below_fe_all_N128": true,
+ "fe_vs_fft_median_abs_rel_diff_pct_N256": [
+  0.498,
+  1.368,
+  0.457
+ ],
+ "fft_below_fe_all_N256": true,
+ "fe_over_fft_time_ratio_median_N256": 7.66,
+ "fe_benchmark_n_rve": 8,
+ "coarse_N128_rel_err_median_pct_G12_G23_k23": [
+  2.936,
+  2.177,
+  0.881
+ ],
+ "coarse_N128_rel_err_max_pct": 39.32,
+ "coarse_N128_n_not_stiffer_G12_G23_k23": [
+  0,
+  0,
+  1
+ ],
+ "moduli_max_over_min_G12_G23_k23": [
+  3.84,
+  4.25,
+  3.0
+ ],
+ "G23_over_Gm_range": [
+  1.293,
+  5.497
+ ],
+ "correction_G23_range": [
+  -0.778,
+  -0.124
+ ],
+ "correction_G23_all_negative": true,
+ "spearman_abs_correction_G23_vs_lgEf_Vf": [
+  0.556,
+  -0.523
+ ]
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+external/
+paper/figs/*.png
+paper/figs/*.pdf

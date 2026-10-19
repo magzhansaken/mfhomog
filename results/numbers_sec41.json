@@ -1,0 +1,156 @@
+{
+ "ours_mean3": [
+  0.451,
+  0.391,
+  0.296,
+  0.256,
+  0.208
+ ],
+ "ours_lowest_vs_comparisons_mape_mean3": [
+  true,
+  true,
+  true,
+  true,
+  true
+ ],
+ "methods_below_ours_mape_mean3": {
+  "10": [
+   "BN-COR-X"
+  ],
+  "20": [
+   "BN-COR-X"
+  ],
+  "40": [],
+  "80": [],
+  "160": []
+ },
+ "ours_lowest_vs_comparisons_mape_G12": [
+  true,
+  true,
+  true,
+  true,
+  true
+ ],
+ "methods_below_ours_mape_G12": {
+  "10": [
+   "BN-COR-X"
+  ],
+  "20": [
+   "BN-COR-X",
+   "BN-LINCOR"
+  ],
+  "40": [],
+  "80": [],
+  "160": []
+ },
+ "ours_lowest_vs_comparisons_mape_G23": [
+  true,
+  true,
+  true,
+  true,
+  true
+ ],
+ "methods_below_ours_mape_G23": {
+  "10": [],
+  "20": [
+   "BN-COR-X"
+  ],
+  "40": [],
+  "80": [
+   "BN-COR-X"
+  ],
+  "160": [
+   "BN-COR-X"
+  ]
+ },
+ "ours_lowest_vs_comparisons_mape_k23": [
+  true,
+  true,
+  true,
+  true,
+  true
+ ],
+ "methods_below_ours_mape_k23": {
+  "10": [],
+  "20": [
+   "BN-COR-X",
+   "BN-LINCOR"
+  ],
+  "40": [
+   "BN-COR-X"
+  ],
+  "80": [],
+  "160": []
+ },
+ "red_vs_BN_variants_min_max_%": [
+  29.2,
+  61.1
+ ],
+ "ours_r2_min": 0.9954,
+ "LF": 2.703,
+ "RICH": 1.527,
+ "ours10_over_RICH_%": 29.5,
+ "MFRNP": [
+  5.64,
+  2.09,
+  2.58,
+  2.3,
+  2.19
+ ],
+ "MT_per_modulus": [
+  3.91,
+  7.76,
+  1.71
+ ],
+ "BN-COR_E2": [
+  0.395,
+  0.33,
+  0.261,
+  0.238,
+  0.196
+ ],
+ "BMLP_E2": [
+  0.883,
+  0.752,
+  0.73
+ ],
+ "ours_nu23": [
+  0.359,
+  0.262,
+  0.212,
+  0.19,
+  0.135
+ ],
+ "ours_E1_max": 0.0023,
+ "ours_nu12_max": 0.063,
+ "viol_nH10_%": {
+  "MT": 0.0,
+  "LF": 0.0,
+  "RICH": 5.3,
+  "GP": 24.5,
+  "MLP": 31.9,
+  "BMLP": 0.0,
+  "VRN": 9.9,
+  "XGB": 50.4,
+  "AR1": 8.4,
+  "NARGP": 14.5,
+  "MFNN": 12.7,
+  "TLNN": 11.5,
+  "MFRNP": 25.0,
+  "BN-GP": 0.0,
+  "BN-NARGP": 0.0,
+  "BN-AR1": 0.0,
+  "COR": 6.2,
+  "BN-COR-X": 0.0,
+  "BN-LINCOR": 0.0,
+  "MT-GP": 3.7,
+  "BN-COR": 0.0
+ },
+ "param_BN-AR1": [
+  0.637,
+  0.558,
+  0.514,
+  0.464,
+  0.439
+ ]
+}

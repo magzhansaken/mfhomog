@@ -1,0 +1,11 @@
+{
+ "n_test": 10000,
+ "targets_identical_max_rel_diff": 0.0,
+ "targets_identical_TL_max_rel_diff": 0.0,
+ "CNN_nH100_mape": 8.02162060128104,
+ "CNN_nH1000_mape": 3.043537217064866,
+ "TL_CNN_nH100_LF1000_mape": 2.7863761918579417,
+ "CNN_nH100_maxape": 34.949121049830545,
+ "TL_CNN_nH100_LF1000_maxape": 22.959184130370257,
+ "CNN_nH1000_maxape": 26.564985622381833
+}
