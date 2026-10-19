@@ -103,7 +103,7 @@ All random seeds are fixed in the scripts; design seeds and microstructure seeds
 
 ## Citation
 
-If you use this code or data, please cite the article (see `CITATION.cff`); an archived release of this repository with a DOI is listed there.
+If you use this code or data, please cite the article (see `CITATION.cff`). Repository: https://github.com/magzhansaken/mfhomog (release v1.0.0 corresponds to the submitted manuscript).
 
 ## Licence
 
